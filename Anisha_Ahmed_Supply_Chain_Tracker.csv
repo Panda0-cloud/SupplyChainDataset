@@ -1,0 +1,51 @@
+Item ID,Item Name,Category,Quantity,Supplier Name,Reorder Level,Order ID,Quantity Ordered,Order Date,Delivery Status
+I001,Laptop,Electronics,20,Global Tech,5,O001,5,2025-01-01,Delivered
+I002,Smartphone,Electronics,50,TechSupplies,10,O002,10,2025-01-02,Pending
+I003,Apple,Fruits,200,Green Farms,50,O003,50,2025-01-03,Delivered
+I004,Steel Rod,Construction,80,SteelWorks,30,O004,20,2025-01-04,Delivered
+I005,Toilet Paper,Household,300,Home Essentials,100,O005,50,2025-01-05,Pending
+I006,Milk,Dairy,90,DairyPro,20,O006,30,2025-01-06,Delivered
+I007,Chair,Furniture,15,WoodCraft,5,O007,5,2025-01-07,Pending
+I008,Rice,Groceries,500,FreshMart,100,O008,200,2025-01-08,Pending
+I009,Car Battery,Automobile,10,AutoParts,5,O009,5,2025-01-09,Delivered
+I010,Desktop,Electronics,25,Global Tech,5,O010,10,2025-01-10,Pending
+I011,Banana,Fruits,150,Green Farms,40,O011,50,2025-01-11,Delivered
+I012,Cement,Construction,60,SteelWorks,20,O012,10,2025-01-12,Pending
+I013,Soap,Household,400,Home Essentials,100,O013,100,2025-01-13,Delivered
+I014,Cheese,Dairy,70,DairyPro,15,O014,20,2025-01-14,Delivered
+I015,Table,Furniture,12,WoodCraft,3,O015,3,2025-01-15,Pending
+I016,Wheat,Groceries,300,FreshMart,80,O016,100,2025-01-16,Pending
+I017,Oil,Groceries,250,FreshMart,60,O017,50,2025-01-17,Delivered
+I018,Mobile Charger,Electronics,40,TechSupplies,8,O018,8,2025-01-18,Delivered
+I019,Car Tires,Automobile,20,AutoParts,10,O019,5,2025-01-19,Pending
+I020,Tablet,Electronics,35,Global Tech,10,O020,10,2025-01-20,Delivered
+I021,Orange,Fruits,180,Green Farms,60,O021,60,2025-01-21,Delivered
+I022,Bricks,Construction,500,SteelWorks,100,O022,50,2025-01-22,Pending
+I023,Shampoo,Household,300,Home Essentials,80,O023,80,2025-01-23,Delivered
+I024,Yogurt,Dairy,60,DairyPro,15,O024,15,2025-01-24,Pending
+I025,Bed,Furniture,8,WoodCraft,3,O025,2,2025-01-25,Delivered
+I026,Flour,Groceries,350,FreshMart,90,O026,50,2025-01-26,Pending
+I027,Juice,Fruits,250,Green Farms,70,O027,70,2025-01-27,Delivered
+I028,Sand,Construction,400,SteelWorks,50,O028,50,2025-01-28,Delivered
+I029,Toothpaste,Household,250,Home Essentials,70,O029,70,2025-01-29,Pending
+I030,Butter,Dairy,40,DairyPro,10,O030,10,2025-01-30,Delivered
+I031,TV Stand,Furniture,10,WoodCraft,4,O031,4,2025-01-31,Delivered
+I032,Sugar,Groceries,100,FreshMart,30,O032,30,2025-02-01,Pending
+I033,Headphones,Electronics,50,TechSupplies,10,O033,10,2025-02-02,Delivered
+I034,Car Light,Automobile,30,AutoParts,5,O034,5,2025-02-03,Pending
+I035,Laptop Case,Electronics,60,Global Tech,10,O035,10,2025-02-04,Delivered
+I036,Peach,Fruits,200,Green Farms,80,O036,80,2025-02-05,Delivered
+I037,Concrete,Construction,700,SteelWorks,150,O037,100,2025-02-06,Pending
+I038,Detergent,Household,400,Home Essentials,120,O038,120,2025-02-07,Delivered
+I039,Butter Milk,Dairy,30,DairyPro,10,O039,10,2025-02-08,Pending
+I040,Coffee Table,Furniture,7,WoodCraft,2,O040,2,2025-02-09,Delivered
+I041,Pulses,Groceries,400,FreshMart,100,O041,100,2025-02-10,Pending
+I042,Bluetooth Speaker,Electronics,30,TechSupplies,5,O042,5,2025-02-11,Delivered
+I043,Car Mats,Automobile,15,AutoParts,5,O043,5,2025-02-12,Pending
+I044,Monitor,Electronics,25,Global Tech,8,O044,8,2025-02-13,Delivered
+I045,Pineapple,Fruits,100,Green Farms,50,O045,50,2025-02-14,Pending
+I046,Gravel,Construction,600,SteelWorks,120,O046,120,2025-02-15,Delivered
+I047,Mop,Household,150,Home Essentials,30,O047,30,2025-02-16,Pending
+I048,Paneer,Dairy,50,DairyPro,15,O048,15,2025-02-17,Delivered
+I049,Bookshelf,Furniture,6,WoodCraft,2,O049,2,2025-02-18,Delivered
+I050,Chips,Groceries,500,FreshMart,150,O050,150,2025-02-19,Pending
